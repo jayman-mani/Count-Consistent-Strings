@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.24
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountConsistentStrings", "CountConsistentStrings\CountConsistentStrings.csproj", "{2DA0C8BE-6715-47BA-806A-AB23F152461B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DA0C8BE-6715-47BA-806A-AB23F152461B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DA0C8BE-6715-47BA-806A-AB23F152461B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DA0C8BE-6715-47BA-806A-AB23F152461B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DA0C8BE-6715-47BA-806A-AB23F152461B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D9DA4D9-9075-470B-AD91-B488C76A98EF}
+	EndGlobalSection
+EndGlobal
